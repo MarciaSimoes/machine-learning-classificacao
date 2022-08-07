@@ -1,0 +1,74 @@
+experimentName,experimentVariant,eventName,count
+DFT iOS - Sorting RPI Only,Control group,Checkout,2
+DFT iOS - Sorting RPI Only,Sorting without RPI,user_engagement,1339393
+DFT iOS - Sorting RPI Only,Control group,ExchangeReturnsSuccessCheckout,5
+DFT iOS - Sorting RPI Only,Sorting without RPI,ecommerce_purchase,1632
+DFT iOS - Sorting RPI Only,Control group,app_update,2487
+DFT iOS - Sorting RPI Only,Sorting without RPI,app_exception,380
+DFT iOS - Sorting RPI Only,Control group,view_item_list,5473644
+DFT iOS - Sorting RPI Only,Control group,view_promotion,7962
+DFT iOS - Sorting RPI Only,Control group,screen_view,1324056
+DFT iOS - Sorting RPI Only,Sorting without RPI,select_promotion,195
+DFT iOS - Sorting RPI Only,Sorting without RPI,session_start,44727
+DFT iOS - Sorting RPI Only,Sorting without RPI,ABTesting,651549
+DFT iOS - Sorting RPI Only,Control group,add_to_cart,26844
+DFT iOS - Sorting RPI Only,Sorting without RPI,Account,4750
+DFT iOS - Sorting RPI Only,Control group,select_promotion,183
+DFT iOS - Sorting RPI Only,Control group,firebase_campaign,1589
+DFT iOS - Sorting RPI Only,Control group,SizeProduct,75798
+DFT iOS - Sorting RPI Only,Sorting without RPI,ExchangeReturnsSuccessCheckout,5
+DFT iOS - Sorting RPI Only,Sorting without RPI,add_to_cart,26038
+DFT iOS - Sorting RPI Only,Sorting without RPI,view_search_results,3927696
+DFT iOS - Sorting RPI Only,Sorting without RPI,error,426
+DFT iOS - Sorting RPI Only,Sorting without RPI,view_promotion,9144
+DFT iOS - Sorting RPI Only,Control group,ecommerce_purchase,1747
+DFT iOS - Sorting RPI Only,Control group,ABTestingSearchSuggestion,45007
+DFT iOS - Sorting RPI Only,Sorting without RPI,select_item,259983
+DFT iOS - Sorting RPI Only,Sorting without RPI,recommendations,591007
+DFT iOS - Sorting RPI Only,Control group,app_exception,357
+DFT iOS - Sorting RPI Only,Control group,session_start,43821
+DFT iOS - Sorting RPI Only,Sorting without RPI,view_item_list,5761952
+DFT iOS - Sorting RPI Only,Control group,select_content,2276
+DFT iOS - Sorting RPI Only,Control group,Account,4799
+DFT iOS - Sorting RPI Only,Sorting without RPI,ExchangeReturnsNewMenu,574
+DFT iOS - Sorting RPI Only,Sorting without RPI,select_content,1899
+DFT iOS - Sorting RPI Only,Control group,recommendations,597935
+DFT iOS - Sorting RPI Only,Sorting without RPI,search_teste_ab,23
+DFT iOS - Sorting RPI Only,Control group,begin_checkout,8495
+DFT iOS - Sorting RPI Only,Control group,search,57266
+DFT iOS - Sorting RPI Only,Control group,Catalog,57766
+DFT iOS - Sorting RPI Only,Control group,ExchangeReturnsNewMenu,469
+DFT iOS - Sorting RPI Only,Control group,ab_testing,375
+DFT iOS - Sorting RPI Only,Sorting without RPI,Product,13187
+DFT iOS - Sorting RPI Only,Control group,remove_from_cart,11682
+DFT iOS - Sorting RPI Only,Sorting without RPI,ABTestingSearchSuggestion,45774
+DFT iOS - Sorting RPI Only,Sorting without RPI,firebase_campaign,1642
+DFT iOS - Sorting RPI Only,Control group,Cart,91272
+DFT iOS - Sorting RPI Only,Control group,add_to_wishlist,79
+DFT iOS - Sorting RPI Only,Sorting without RPI,Checkout,4
+DFT iOS - Sorting RPI Only,Sorting without RPI,Catalog,62335
+DFT iOS - Sorting RPI Only,Sorting without RPI,screen_view,1332758
+DFT iOS - Sorting RPI Only,Control group,error,378
+DFT iOS - Sorting RPI Only,Sorting without RPI,SuggestionSearch,1
+DFT iOS - Sorting RPI Only,Control group,Home,3842
+DFT iOS - Sorting RPI Only,Sorting without RPI,os_update,995
+DFT iOS - Sorting RPI Only,Sorting without RPI,Cart,95259
+DFT iOS - Sorting RPI Only,Sorting without RPI,view_item,304348
+DFT iOS - Sorting RPI Only,Sorting without RPI,search,58752
+DFT iOS - Sorting RPI Only,Sorting without RPI,ab_testing,257
+DFT iOS - Sorting RPI Only,Control group,ExchangeReturnsOrderDetail,1035
+DFT iOS - Sorting RPI Only,Sorting without RPI,remove_from_cart,11404
+DFT iOS - Sorting RPI Only,Control group,ABTesting,648663
+DFT iOS - Sorting RPI Only,Sorting without RPI,app_update,2576
+DFT iOS - Sorting RPI Only,Sorting without RPI,begin_checkout,7506
+DFT iOS - Sorting RPI Only,Control group,select_item,262901
+DFT iOS - Sorting RPI Only,Sorting without RPI,ExchangeReturnsOrderDetail,1164
+DFT iOS - Sorting RPI Only,Control group,view_search_results,4030073
+DFT iOS - Sorting RPI Only,Sorting without RPI,add_to_wishlist,104
+DFT iOS - Sorting RPI Only,Sorting without RPI,Home,3833
+DFT iOS - Sorting RPI Only,Sorting without RPI,SizeProduct,77161
+DFT iOS - Sorting RPI Only,Control group,user_engagement,1331052
+DFT iOS - Sorting RPI Only,Control group,view_item,306858
+DFT iOS - Sorting RPI Only,Control group,os_update,1025
+DFT iOS - Sorting RPI Only,Control group,search_teste_ab,14
+DFT iOS - Sorting RPI Only,Control group,Product,13192
